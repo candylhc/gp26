@@ -20,6 +20,6 @@ public abstract class Staff {
 	// toString
 	public String toString()
 	{
-		return name;
+		return name + "Hello";
 	}
 }
