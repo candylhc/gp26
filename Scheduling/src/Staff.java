@@ -16,4 +16,10 @@ public abstract class Staff {
 		shift.add(s);
 	}
 	
+	
+	// toString
+	public String toString()
+	{
+		return name;
+	}
 }
