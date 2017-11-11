@@ -1,4 +1,4 @@
-
+package src;
 public class TestCase {
 	public static void main(String args[]) {
 		Restaurant r = Restaurant.getInstance();

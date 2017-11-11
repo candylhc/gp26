@@ -1,3 +1,5 @@
+package src;
+
 public class Shift {
 	private String date;
 	private String startTime;
