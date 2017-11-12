@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 package  src;
 
+=======
+package src;
+>>>>>>> branch 'master' of https://github.com/tony1233465/gp26
 public class TestCase {
 	public static void main(String args[]) {
 		Restaurant r = Restaurant.getInstance();
