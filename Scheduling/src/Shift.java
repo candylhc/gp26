@@ -1,9 +1,5 @@
 package src;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> branch 'master' of https://github.com/tony1233465/gp26
 public class Shift {
 	private String date;
 	private String startTime;
